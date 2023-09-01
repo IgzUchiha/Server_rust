@@ -1,0 +1,1 @@
+/Users/icastillo/server/target/debug/server: /Users/icastillo/server/src/http/method.rs /Users/icastillo/server/src/http/mod.rs /Users/icastillo/server/src/http/request.rs /Users/icastillo/server/src/main.rs /Users/icastillo/server/src/server.rs
